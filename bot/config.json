@@ -1,0 +1,18 @@
+[{
+  "comandos":[
+    "!ajuda",
+    "!banir",
+    "!killall",
+    "!regras",
+    "!jujuba"
+  ]
+},
+{
+  "resultados":[
+    "Sou o robô {bot-nome} desenvolvido por JoHN para gerênciar a sala {nome-sala}. {quebra}{quebra} ----------- Comandos ---------- {quebra} !kill -> Bani um usuário.{quebra} !regras -> Exibe as regras.{quebra} !killall -> Derruba todos os usuários (MASTER).{quebra} !jujuba -> Faz {bot-nome}(bot) repetir frase. {quebra}{quebra} ----------- {bot-nome} ---------- {quebra} {bot-alias} piada -> Faz {bot-nome}(bot) contar uma piada. {quebra} {bot-alias} frase -> Faz {bot-nome}(bot) falar uma frase. {quebra} {bot-alias} regras -> Faz {bot-nome}(bot) falar as regras da sala {nome-sala}.",
+    "{id-usuario}",
+    "{id-sala}",
+    "1- Não respeitar o colega. {quebra} 2- Ser boi. {quebra} 3- Falar merda a vontade. {quebra} 4- NÃO FLOODAR ESSA MZR. {quebra} 5- GOOO.",
+    "@{nome-usuario} {texto}"
+  ]
+}]

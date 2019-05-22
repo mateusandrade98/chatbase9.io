@@ -1,0 +1,88 @@
+body,html{
+  height: 100%;
+  overflow-x: hidden;
+}
+
+.security{
+  color:#47d147;
+}
+
+.pointer{
+  cursor: pointer;
+}
+
+.rounded-2{
+  border-radius: 15px;
+}
+
+.lider{
+  position: relative;
+  color: black;
+  margin-left: 37px;
+  margin-top: 0px;
+  background: yellow;
+  padding: 4px;
+  border-radius: 100px;
+  display: flex;
+}
+
+.master{
+  position: relative;
+  color: black;
+  margin-left: 37px;
+  margin-top: 0px;
+  background: green;
+  padding: 4px;
+  border-radius: 100px;
+  display: flex;
+}
+
+.chat-scroll{
+  overflow-y: scroll;
+  padding-bottom: 20px;
+  max-height: 450px;
+  word-wrap:  anywhere;
+  /*min-height: 450px;*/
+}
+.chat-scroll .list-group{
+  bottom: 0px;
+}
+
+.sender-chat{
+  width: 80%;
+  margin: auto;
+  padding-top: 5px;
+  padding-bottom: 5px;
+}
+
+.flex-basis{
+  flex-basis:0px;
+}
+
+.font-size-sender{
+  font-size: 25px;
+}
+
+.em-loa{
+  position: absolute;
+  bottom: 0px;
+  right: 0px;
+}
+
+.max-container{
+  max-width: 90%;
+}
+
+.hideFileUpload{
+  font-size: 0px !important;
+  position: absolute !important;
+  height: 39px !important;
+  z-index: 99 !important;
+  cursor: pointer !important;
+  opacity: 0;
+}
+
+.max-imagem{
+  max-width: 150px;
+  max-height: 150px;
+}
