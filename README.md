@@ -1,4 +1,5 @@
-# criptografia-de-ponta-a-ponta-com-RSA-512-bytes
-quebra ai com brute force!
+# Chatbase9.io
 
-depois eu posto o código, ainda quero usar para algumas coisas pessoais
+chat usando criptografia RSA-256 para uma forma segura e privada de armazenamento de dados em cloud.
+
+possíbilidade de criar salas, utilização de bots, envios de imagens, e configuração de criptofrafia de ponta-a-ponta.
